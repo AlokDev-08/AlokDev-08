@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ## ⚡ About
-
+   
 * Learning **Java, C, HTML, CSS, JavaScript**
 * Interested in **AI & Full-Stack Development**
 * Focused on **problem solving and building**
