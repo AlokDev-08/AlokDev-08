@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFC6&center=true&vCenter=true&width=420&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Learning+Every+Day" />
 </p>
-
+ 
 ---
 
 <p align="center">
